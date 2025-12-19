@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "420919548340",
+    "project_id": "services-app-2",
+    "storage_bucket": "services-app-2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:420919548340:android:82e7fec04420253e9dfae1",
+        "android_client_info": {
+          "package_name": "com.example.doctor_appointment_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAd-oQ11iOP7V7Y4nE7yjIhpu2iPy5VaV0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:420919548340:android:e41c4e0ffc656cf99dfae1",
+        "android_client_info": {
+          "package_name": "com.example.services_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAd-oQ11iOP7V7Y4nE7yjIhpu2iPy5VaV0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

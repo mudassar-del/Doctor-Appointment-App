@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Doctor-Appointment-App</string>
+    <string name="exceptional_card_n_close_yo_you">Exceptional Card\n Close yo You</string>
+    <string name="make_appointment">Make Appointment</string>
+</resources>
