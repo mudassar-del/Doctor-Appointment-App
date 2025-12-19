@@ -24,6 +24,3 @@ Doctor List Display
 Appointment Booking System  
 Simple and User-Friendly Interface  
 
- 
-
- and reliable solution for managing doctor appointments. It saves time, reduces errors, and enhances the healthcare experience for both patients and doctors.
